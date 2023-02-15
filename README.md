@@ -1,8 +1,10 @@
 # Electronic-Store-s-Sales-Analysis-Python
 
-## Link to Dataset used by this project: https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data
+## Link to Dataset used by this project:
 
-A whole year sales data of an US electronic store breakdown by month
+https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data
+
+## Dataset: A whole year sales data of an US electronic store breakdown by month
 
 ## Cleaning Data (Pandas):
 
